@@ -1,4 +1,4 @@
-# IT-Incident-Operations-Consulting# IT Service Management | Operational Efficiency & Digital Transformation
+# IT-Incident-Operations-Consulting| Operational Efficiency & Digital Transformation
 
 **Business & Data Analytics Portfolio Project**
 
