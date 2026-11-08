@@ -82,6 +82,7 @@ The analysis covers 24,918 distinct incidents and 141,712 recorded events.
 
 The findings describe historical patterns and statistical associations, not proven causes of delays or verified improvements.
 
+Link: https://archive.ics.uci.edu/dataset/498/incident+management+process+enriched+event+log
 ---
 
 *This project demonstrates how SQL, Python, Power BI, AI-assisted workflows and management consulting methods can support evidence-based operational decisions and practical digital transformation opportunities.*
